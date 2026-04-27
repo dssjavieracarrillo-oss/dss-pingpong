@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/tablero", "destination": "/pingpong.html" },
+    { "source": "/estadisticas", "destination": "/dashboard_dss.html" }
+  ]
+}
